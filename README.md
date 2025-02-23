@@ -52,4 +52,5 @@ Future Enhancements
 🔒 User Authentication – Implement login and registration.
 📜 Chat History Storage using a database.
 📡 Encryption – Secure communication using SSL/TLS.
-
+Output:
+![Image](https://github.com/user-attachments/assets/bacca2ec-8e84-4606-b6b7-ec2a6f74a456)
